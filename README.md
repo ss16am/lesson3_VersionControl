@@ -5,10 +5,10 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 20, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Sanga Sung)
 
 ## Project Description:
 (In your own words, briefly describe the assignment.)
